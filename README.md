@@ -1,2 +1,2 @@
-# C-32
-score board and background api
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
